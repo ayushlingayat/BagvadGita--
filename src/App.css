@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap");
+
+#root {
+  font-family: "Laila", serif;
+
+  max-width: 1278px;
+  margin: 0 !important;
+  background-image: url("../src/assets/ombg.png");
+}

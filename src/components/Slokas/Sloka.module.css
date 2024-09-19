@@ -1,0 +1,40 @@
+.sloka_card_header {
+  background-color: rgba(184, 135, 11, 0.26) !important;
+  border-color: rgba(240, 248, 255, 0) !important;
+}
+
+.slokaCard {
+  width: 70% !important;
+  border-radius: 10px;
+  padding: 0 !important;
+  border-color: rgb(236, 187, 11) !important;
+  background-color: rgba(240, 248, 255, 0) !important;
+  margin: 10px !important;
+}
+
+.slokaCard:hover {
+  border-width: 5px;
+  border-radius: 10px;
+}
+
+.sloka_card_body {
+  background-color: rgba(240, 248, 255, 0) !important;
+}
+
+.sloka_text {
+  color: rgb(236, 187, 11);
+}
+
+.sloka_word_meanings {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 0, 0.326);
+  color: black;
+  padding: 10px;
+}
+
+.translation_btn:active {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 0, 0.326);
+  color: black;
+  padding: 10px;
+}

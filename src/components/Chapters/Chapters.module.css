@@ -1,0 +1,33 @@
+.ChCardTextBg {
+  background-color: rgba(0, 0, 0, 0.694);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.ChCard:active {
+  box-shadow: 5px 5px 10px rgba(230, 107, 7, 0.635);
+}
+
+.ChCard:hover {
+  box-shadow: 5px 5px 10px rgba(230, 107, 7, 0.603); /* Add shadow */
+}
+
+.chapter_slug {
+  color: #012f1d !important;
+}
+
+.chapter_name_transliterated {
+  color: #f8be7e !important;
+}
+
+.chapter_summary {
+  background-color: #f8bf7e3e;
+  border-radius: 10px;
+}
